@@ -1,0 +1,11 @@
+$clr-background: #1a2f35;
+$clr-txt-header: #CCCCCC;
+$clr-txt-body: #666666;
+
+body {
+  background-color: $clr-background;
+  color: $clr-txt-body;
+}
+h1 {
+  color: $clr-txt-header;
+}
